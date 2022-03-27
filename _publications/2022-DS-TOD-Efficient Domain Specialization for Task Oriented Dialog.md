@@ -1,9 +1,8 @@
 ---
 title: "DS-TOD: Efficient Domain Specialization for Task Oriented Dialog"
 collection: publications
-permalink: 
 date: 2022-05-22
-venue: 'Findings of the 60th Annual Meeting of the Association for Computational Linguistics: ACL 2022'
+venue: 'Findings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)' 2022'
 paperurl: 'https://arxiv.org/abs/2110.08395'
 
 ---
