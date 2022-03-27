@@ -1,9 +1,9 @@
 ---
-title: "DS-TOD: Efficient Domain Specialization for Task Oriented Dialog"
+title: "2021-11-19: Coding Aperitivo Invited Talk @ MilaNLP"
 collection: talks
-type: "Talk"
+type: "Invited Talk"
 permalink: /talks/2021-11-19-invited-talk.md
-venue: "Coding Aperitivo Invited Talk, MilaNLP Lab, University of Bocconi, Italy"
+venue: "MilaNLP Lab, University of Bocconi, Italy"
 date: 2021-11-19
 location: "virtual"
 
