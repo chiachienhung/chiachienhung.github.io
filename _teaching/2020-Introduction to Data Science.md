@@ -1,7 +1,7 @@
 ---
 title: "Einführung in Data Science"
 collection: teaching
-type: "Tutorial"
+type: "TA"
 permalink:
 venue: "Bachelor Course, 2020 Fall"
 date: 2020-01-01

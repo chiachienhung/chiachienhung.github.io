@@ -1,7 +1,7 @@
 ---
 title: "Text Analytics"
 collection: teaching
-type: "Tutorial"
+type: "TA"
 permalink:
 venue: "Master Course, 2020 Fall & 2021 Fall"
 date: 2020-01-01

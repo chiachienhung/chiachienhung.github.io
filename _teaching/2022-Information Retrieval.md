@@ -1,7 +1,7 @@
 ---
 title: "Information Retrieval"
 collection: teaching
-type: "Tutorial"
+type: "TA"
 permalink:
 venue: "Master Course, 2022 Spring"
 date: 2022-01-01

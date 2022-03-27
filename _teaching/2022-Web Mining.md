@@ -1,7 +1,7 @@
 ---
 title: "Web Mining"
 collection: teaching
-type: "Tutorial"
+type: "TA"
 permalink:
 venue: "Master Course, 2020 Spring & 2021 Spring & 2022 Spring"
 date: 2020-01-01
