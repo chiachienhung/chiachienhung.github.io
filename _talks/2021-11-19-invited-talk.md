@@ -2,7 +2,7 @@
 title: "2021-11-19: Coding Aperitivo Invited Talk @ MilaNLP"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2021-11-19-invited-talk.md
+permalink: 
 venue: "MilaNLP Lab, University of Bocconi, Italy"
 date: 2021-11-19
 location: "virtual"
