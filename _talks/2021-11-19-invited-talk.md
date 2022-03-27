@@ -1,5 +1,5 @@
 ---
-title: "2021-11-19: Coding Aperitivo Invited Talk @ MilaNLP"
+title: "Coding Aperitivo Invited Talk @ MilaNLP"
 collection: talks
 type: "Invited Talk"
 permalink: 
