@@ -3,7 +3,7 @@ title: "**Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretrainin
 collection: publications
 permalink: 
 date: 2022-07-10
-venue: 'In Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT)'
+venue: 'Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics - Human Language Technologies (NAACL-HLT)'
  
 ---
 [PDF](https://openreview.net/pdf?id=JhU9onUBeC)
