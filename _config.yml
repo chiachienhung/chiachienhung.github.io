@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: false
-  # _portfolio
+  # _portfoliolog
   #- scope:
   #    path: ""
   #    type: portfolio
