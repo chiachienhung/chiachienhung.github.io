@@ -1,8 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-author_profile: true\
-layout: page
+author_profile: true
 ---
 
 <u><a href="https://www.semanticscholar.org/author/Chia-Chien-Hung/11618346" target="_blank">Semantic Scholar</a></u> profile
