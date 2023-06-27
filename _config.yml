@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chia-Chien Hung"
 title_separator          : "-"
 name                     : &name "Chia-Chien Hung"
-description              : &description "PhD Student @ UMANLP @ University of Mannheim"
+description              : #&description "PhD Student @ UMANLP @ University of Mannheim"
 url                      : https://chiachienhung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chiachienhung/chiachienhung.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chia-Chien Hung"
   avatar           : "main.jpg"
-  bio              : "PhD Student @ UMANLP @ University of Mannheim"
+  bio              : "Research Scientist @ NEC Labs Europe | PhD Student @ UMANLP"
   location         : "Germany"
   employer         :
   pubmed           : 
