@@ -44,5 +44,5 @@ In <i>Proceedings of the Workshop on Multilingual Information Access (<a href="h
 <p><li><b><strong>DS-TOD: Efficient Domain Specialization for Task Oriented Dialog</strong></b> <br> 
 <b>Chia-Chien Hung</b>, Anne Lauscher, Simone Paolo Ponzetto, Goran Glavaš. 
 In <i>Findings of the Association for Computational Linguistics (<a href="https://www.2022.aclweb.org/">ACL</a>)</i>. 
-[<a href="https://aclanthology.org/2022.findings-acl.72/">PDF</a>] [<a href="https://github.com/umanlp/DS-TOD">Code</a>]</li></p>
+[<a href="https://aclanthology.org/2022.findings-acl.72.pdf">PDF</a>] [<a href="https://github.com/umanlp/DS-TOD">Code</a>]</li></p>
 </ul>

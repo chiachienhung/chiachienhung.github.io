@@ -12,9 +12,9 @@ author_profile: true
     * 2021-11-19: Coding Aperitivo Invited Talk @ MilaNLP, Bocconi University, Italy
 
 * **Presentation**
-    * 2023-05-05: [Oral Presentation] SocioAdapt @ Insights NLP Workshop, EACL 2023
+    * 2023-05-05: [Oral] SocioAdapt @ Insights NLP Workshop, EACL 2023
     * 2022-07-15: [Poster] ZusammenQA @ MIA Workshop, NAACL 2022
-    * 2022-07-11: [Oral Presentation] Multi2WOZ @ NAACL 2022
+    * 2022-07-11: [Oral] Multi2WOZ @ NAACL 2022
     * 2022-05-24: [Poster] DS-TOD @ ACL 2022
     * 2021-11-23: [Poster] DS-TOD @ UKP-CIS Workshop
 
@@ -23,7 +23,7 @@ author_profile: true
     * Conference: ACL, EMNLP, EACL
     
 * **Industrial Project**
-    * Multi2ConvAI: [[Blog]](https://sites.google.com/inovex.de/multi2conv/en) [[Code]](https://github.com/inovex/multi2convai)
+    * Multi2ConvAI: [<a href="https://sites.google.com/inovex.de/multi2conv/en">Blog</a>] [<a href="https://github.com/inovex/multi2convai">Code</a>]
 
 
 ## Teaching
