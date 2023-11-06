@@ -6,15 +6,6 @@ author_profile: true
 
 <u><a href="https://www.semanticscholar.org/author/Chia-Chien-Hung/11618346" target="_blank">Semantic Scholar</a></u> profile
 
-@inproceedings{
-anonymous2023walking,
-title={Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains},
-author={Anonymous},
-booktitle={GenBench: The first workshop on generalisation (benchmarking) in NLP},
-year={2023},
-url={https://openreview.net/forum?id=lOp9i5palL}
-}
-
 ## 2023
 <ul>
 <p><li><b><strong>Linking Surface Facts to Large-Scale Knowledge Graphs</strong></b> <br> 
