@@ -6,8 +6,27 @@ author_profile: true
 
 <u><a href="https://www.semanticscholar.org/author/Chia-Chien-Hung/11618346" target="_blank">Semantic Scholar</a></u> profile
 
+@inproceedings{
+anonymous2023walking,
+title={Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains},
+author={Anonymous},
+booktitle={GenBench: The first workshop on generalisation (benchmarking) in NLP},
+year={2023},
+url={https://openreview.net/forum?id=lOp9i5palL}
+}
+
 ## 2023
 <ul>
+<p><li><b><strong>Linking Surface Facts to Large-Scale Knowledge Graphs</strong></b> <br> 
+Gorjan Radevski, Kiril Gashteovski, <b>Chia-Chien Hung</b>, Carolin Lawrence, Goran Glavaš. 
+In <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing (<a href="https://2023.emnlp.org/">EMNLP</a>)</i>.
+[<a href="https://arxiv.org/pdf/2310.14909.pdf">PDF</a>] [<a href="https://github.com/nec-research/fact-linking">Code</a>]</li></p>
+
+<p><li><b><strong>Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains</strong></b> <br> 
+<b>Chia-Chien Hung</b>, Wiem Ben Rim, Lindsay Frost, Lars Bruckner, Carolin Lawrence. 
+In <i>Proceedings of the First Workshop on Generalisation (Benchmarking) in NLP (<a href="https://genbench.org/workshop/#call-for-papers">GenBench</a>@<a href="https://2023.emnlp.org/">EMNLP</a>)</i>.
+[<a>PDF</a>] </li></p>
+
 <p><li><b><strong>TADA: Efficient Task-Agnostic Domain Adaptation for Transformers</strong></b> <br> 
 <b>Chia-Chien Hung</b>, Lukas Lange, Jannik Strötgen. 
 In <i>Findings of the Association for Computational Linguistics (<a href="https://2023.aclweb.org/">ACL</a>)</i>.
