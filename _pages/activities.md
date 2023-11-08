@@ -8,10 +8,13 @@ author_profile: true
 ## Professional Activities
 
 * **Invited Talk**
+    * 2023-11-07: Invited Talk @ DFKI Saarbrücken, Germany
+    * 2023-08-28: Invited Talk @ Data Science Group, University of Hamburg, Germany
     * 2022-07-29: Invited Talk @ CAIDAS, University of Würzburg, Germany
     * 2021-11-19: Coding Aperitivo Invited Talk @ MilaNLP, Bocconi University, Italy
 
 * **Presentation**
+    * 2023-07-13: [Poster] TADA @ RepL4NLP Workshop, ACL 2023
     * 2023-05-05: [Oral] SocioAdapt @ Insights NLP Workshop, EACL 2023
     * 2022-07-15: [Poster] ZusammenQA @ MIA Workshop, NAACL 2022
     * 2022-07-11: [Oral] Multi2WOZ @ NAACL 2022
