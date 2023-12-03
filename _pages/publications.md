@@ -15,8 +15,8 @@ In <i>Proceedings of the 2023 Conference on Empirical Methods in Natural Languag
 
 <p><li><b><strong>Walking a Tightrope -- Evaluating Large Language Models in High-Risk Domains</strong></b> <br> 
 <b>Chia-Chien Hung</b>, Wiem Ben Rim, Lindsay Frost, Lars Bruckner, Carolin Lawrence <br> 
-In <i>Proceedings of the First Workshop on Generalisation (Benchmarking) in NLP (<a href="https://genbench.org/workshop/#call-for-papers">GenBench</a>@<a href="https://2023.emnlp.org/">EMNLP</a>)</i>.
-[<a>PDF</a>] </li></p>
+In <i>Proceedings of the First Workshop on Generalisation (Benchmarking) in NLP (<a href="https://genbench.org/workshop/">GenBench</a>@<a href="https://2023.emnlp.org/">EMNLP</a>)</i>.
+[<a href="https://arxiv.org/pdf/2311.14966.pdf">PDF</a>] </li></p>
 
 <p><li><b><strong>TADA: Efficient Task-Agnostic Domain Adaptation for Transformers</strong></b> <br> 
 <b>Chia-Chien Hung</b>, Lukas Lange, Jannik Strötgen <br> 
