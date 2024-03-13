@@ -39,7 +39,7 @@ In <i>Proceedings of the Working Notes of CLEF 2022 - Conference and Labs of the
 <p><li><b><strong>Stacked Model based Argument Extraction and Stance Detection using Embedded LSTM model</strong></b> <br>
 Pavani Rajula, <b>Chia-Chien Hung</b>, Simone Paolo Ponzetto  <br> 
 In <i>Proceedings of the Working Notes of CLEF 2022 - Conference and Labs of the Evaluation Forum (<a href="https://clef2022.clef-initiative.eu/">CLEF</a>)</i>.
-[<a href="https://ceur-ws.org/Vol-3180/paper-258.pdf">PDF</a>]</li></p>
+[<a href="https://ceur-ws.org/Vol-3180/paper-258.pdf">PDF</a>] [<a href="https://github.com/rpavani1998/Touche-2022-ComparativeRetrieval">Code</a>]</li></p> 
 
 <p><li><b><strong>Multi2WOZ: A Robust Multilingual Dataset and Conversational Pretraining for Task-Oriented Dialog</strong></b> <br> 
 <b>Chia-Chien Hung</b>, Anne Lauscher, Ivan Vulić, Simone Paolo Ponzetto, Goran Glavaš <br> 
