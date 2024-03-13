@@ -23,7 +23,7 @@ author_profile: true
     * 2021-11-23: [Poster] DS-TOD @ UKP-CIS Workshop
 
 * **Program Committee**
-    * <a href="https://hucllm-workshop.github.io/">Human-centered LLM Workshop</a> (ACL 2024)
+    * <a href="https://hucllm-workshop.github.io/">Human-Centered LLM Workshop</a> (ACL 2024)
     * <a href="https://sites.google.com/view/nlp4positiveimpact">3rd Workshop on NLP for Positive Impact</a> (EMNLP 2024)
 
 * **Reviewer**
