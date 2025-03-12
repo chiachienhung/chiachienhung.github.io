@@ -6,6 +6,24 @@ author_profile: true
 
 <u><a href="https://www.semanticscholar.org/author/Chia-Chien-Hung/11618346" target="_blank">Semantic Scholar</a></u> profile
 
+## 2024
+<ul>
+<p><li><b><strong>Multidimensional Adaptation of Language Models: Domains, Languages, and Social Dimensions</strong></b> <br> 
+<b>Chia-Chien Hung</b> <br> 
+<i>Doctoral Thesis</i>.
+[<a href="https://madoc.bib.uni-mannheim.de/68994/1/Dissertation_Hung%20%28submit%29.pdf">PDF</a>] </li></p>
+
+<p><li><b><strong>ANHALTEN: Cross-Lingual Transfer for German Token-Level Reference-Free Hallucination Detection</strong></b> <br> 
+Janek Herrlein, <b>Chia-Chien Hung</b>, Goran Glavaš <br> 
+In <i>Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 4: Student Research Workshop) (<a href="https://2024.aclweb.org/">ACL</a>)</i>. 
+[<a href="https://aclanthology.org/2024.acl-srw.18.pdf">PDF</a>] [<a href="https://github.com/janekh24/anhalten">Code</a>] </li></p>
+
+<p><li><b><strong>Towards Safer Large Language Models (LLMs)</strong></b> <br> 
+Carolin Lawrence, Roberto Bifulco, Kiril Gastheovski, <b>Chia-Chien Hung</b>, Wiem Ben Rim, Ammar Shaker, Masafumi Oyamada, Kunihiko Sadamasa, Masafumi Enomoto, Kunihiro Takeoka <br> 
+In <i> <a href="https://www.nec.com/en/global/techrep/journal/g23/n02/g2302pa.html">NEC Technical Journal Vol.17 No.2</a> June 2024 Special Issue on Revolutionizing Business Practices with Generative AI — Advancing the Societal Adoption of AI with the Support of Generative AI Technologies</i>.
+[<a href="https://www.nec.com/en/global/techrep/journal/g23/n02/pdf/230214.pdf">PDF</a>] </li></p>
+</ul>
+
 ## 2023
 <ul>
 <p><li><b><strong>Linking Surface Facts to Large-Scale Knowledge Graphs</strong></b> <br> 
