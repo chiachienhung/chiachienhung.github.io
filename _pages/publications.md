@@ -6,7 +6,7 @@ author_profile: true
 
 <u><a href="https://www.semanticscholar.org/author/Chia-Chien-Hung/11618346" target="_blank">Semantic Scholar</a></u> profile
 
-## 2024
+### 2024
 <ul>
 <p><li><b><strong>Multidimensional Adaptation of Language Models: Domains, Languages, and Social Dimensions.</strong></b>
 <i>Chia-Chien Hung</i>.
@@ -24,7 +24,7 @@ In <i> <a href="https://www.nec.com/en/global/techrep/journal/g23/n02/g2302pa.ht
 [<a href="https://www.nec.com/en/global/techrep/journal/g23/n02/pdf/230214.pdf">PDF</a>] </li></p>
 </ul>
 
-## 2023
+### 2023
 <ul>
 <p><li><b><strong>Linking Surface Facts to Large-Scale Knowledge Graphs.</strong></b>
 Gorjan Radevski, Kiril Gashteovski, <i>Chia-Chien Hung</i>, Carolin Lawrence, Goran Glavaš.
@@ -47,7 +47,7 @@ In <i>Findings of the Association for Computational Linguistics (<a href="https:
 [<a href="https://aclanthology.org/2023.findings-eacl.116.pdf">PDF</a>] [<a href="https://github.com/umanlp/SocioAdapt">Code</a>]</li></p>
 </ul>
 
-## 2022
+### 2022
 <ul>
 <p><li><b><strong>LeviRANK: Limited Query Expansion with Voting Integration for Document Retrieval and Ranking.</strong></b>
 Ashish Rana, Pujit Golchha, Roni Juntunen, Andreea Coaja, Ahmed Elzamarany, <i>Chia-Chien Hung</i>, Simone Paolo Ponzetto.
