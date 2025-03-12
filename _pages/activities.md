@@ -4,9 +4,6 @@ permalink: /activities/
 author_profile: true
 ---
 
-
-## Professional Activities
-
 ### 2025
 * Area Chair for ACL 2025
 * Program Committee for 4th Workshop on NLP for Positive Impact (<a href="https://sites.google.com/view/nlp4positiveimpact">NLP4PI</a>), co-located with ACL 2025
