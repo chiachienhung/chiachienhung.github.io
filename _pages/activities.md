@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ### 2025
+* <a href="https://chiachienhung.github.io/publications/">2 papers</a> accepted at ACL2025 (2 main)
+* July 10-11: Presented Elderly HealthCare Demo at the <a href="https://www.chi.sg/chi-innovate-2025/"><i>CHI Innovate 2025</i></a> in Singapore
 * Area Chair for ACL 2025
 * Program Committee for 4th Workshop on NLP for Positive Impact (<a href="https://sites.google.com/view/nlp4positiveimpact">NLP4PI</a>), co-located with ACL 2025
 

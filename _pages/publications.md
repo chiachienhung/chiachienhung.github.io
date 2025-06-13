@@ -6,6 +6,20 @@ author_profile: true
 
 <u><a href="https://www.semanticscholar.org/author/Chia-Chien-Hung/11618346" target="_blank">Semantic Scholar</a></u> profile
 
+### 2025
+<ul>
+<p><li><b><strong>MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis.</strong></b>
+Daniel Rose, <i>Chia-Chien Hung</i>, Marco Lepri, Israa Alqassem, Kiril Gashteovski, Carolin Lawrence.
+In <i>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (<a href="https://2025.aclweb.org/">ACL</a>)</i>. 
+[<a href="https://arxiv.org/pdf/2502.19175">PDF</a>] [<a href="https://github.com/nec-research/meddxagent">Code</a>] </li></p>
+
+<p><li><b><strong>On Synthesizing Data for Context Attribution in Question Answering.</strong></b>
+Gorjan Radevski, Kiril Gashteovski, Shahbaz Syed, Christopher Malon, Sebastien Nicolas, <i>Chia-Chien Hung</i>, Timo Sztyler, Verena Heußer, Wiem Ben Rim, Masafumi Enomoto, Kunihiro Takeoka, Masafumi Oyamada, Goran Glavaš, Carolin Lawrence.
+In <i>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (<a href="https://2025.aclweb.org/">ACL</a>)</i>. 
+[<a href="https://arxiv.org/pdf/2504.05317">PDF</a>] </li></p>
+</ul>
+
+
 ### 2024
 <ul>
 <p><li><b><strong>Multidimensional Adaptation of Language Models: Domains, Languages, and Social Dimensions.</strong></b>
